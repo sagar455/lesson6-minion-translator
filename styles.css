@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&family=Montserrat:wght@400;500&display=swap');
+.nav-bar{
+    text-align: center;
+    font-size:4rem;
+    background-color:#FDD961;
+    padding:2rem;
+}
+
+#txt-input{
+    margin:2rem auto;
+    border:solid;
+    display: block;
+    width:400px;
+    height:200px
+}
+
+.btn-translate{
+    text-align: center;
+    background-color: orange;
+    padding: 1em 5em;
+}
+
+#output{
+    margin:2rem auto ;
+    border:solid;
+    width:400px;
+    height:200px
+}
+
+.footer{
+    text-align: center;
+    font-size:2rem;
+    background-color:#FDD961;
+    padding:3rem;
+    font-style: italic
+}
+
+.output-txt{
+    font-size: 3rem;
+}
+
+.container{
+    padding: 1.5rem;
+    background-color: rgba(202, 155, 2,.2);
+}
+
+body{
+    margin:0;
+    text-align: center;
+    background: url("https://images.unsplash.com/photo-1623346016470-53d81533a76d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80")  center center no-repeat;
+    background-size: auto;
+    font-family: 'Allison', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+
