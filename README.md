@@ -3,7 +3,7 @@
 ## mark6-neogCamp
 
 
-This project has benn made to get the translated text from English to the banana language (minion text).
+This project has been made to get the translated text from English to the banana language (minion text).
 
 
 ### Acknowledgement
